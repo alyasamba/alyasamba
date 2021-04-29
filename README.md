@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning  and developing useful software for society
 - 💞️ I am looking for a financial collaborator for the realization of my projects ...
 - 📫 To reach me, just contact the number 221 77 148 21 71 or send a message to the following email:
-- alyasamba.pythonanywhere.com
-sopesherifabdoulah@gmail.com ...
+- sopesherifabdoulah@gmail.com or  
+- 👀 Visit this link alyasamba.pythonanywhere.com
 
 <!---
 alyasamba/Ali_Samba is a ✨ special ✨ repository because its content provides a brief description of me and my projects .
